@@ -1,0 +1,14 @@
+.banner {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background: black;
+    padding: 5vw 0 5vw 0;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.p-tags p {
+    width: 100%;
+}
